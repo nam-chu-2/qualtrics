@@ -1,0 +1,12 @@
+﻿US_1,US_2,US_3,CAD_1,CAD_2,CAD_3,,,Exchange rate,,,
+21,190,759,29.4,266,1062.6,,,1.4,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+References,,,,,,,,,,,
+mean 2025 price,Carbon pricing revenues hit $107 billion in 2025,,,,,,,,,,
+Biden EPA ,https://www.instituteforenergyresearch.org/regulation/epa-ups-estimates-for-the-social-cost-of-carbon/,,,,,,,,,,
+,,,,,,,,,$/tC,$/tCO2,
+Tol 2026,https://arxiv.org/html/2402.09125v4#S3,,,,,,,,629,2306,more recent but not peer-reviewed
+Tol 2024,https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1111/nyas.15340,,,,,,,,207,759,we'll go with the published estimate from 2024
